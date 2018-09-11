@@ -1,0 +1,424 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header satrt*/
+header {
+	padding: 20px 0;
+}
+.custom_menu a{
+	font-size: 32px;
+}
+.custom_menu a img{
+	width: 20%;
+}
+.custom_nav ul li {
+	margin-left: 0;
+}
+.custom_nav ul li a {
+	font-size: 18px;
+	text-align: center;
+}
+.custom_nav ul li a:hover {
+	background-color: black;
+	color: white !important;
+	border-radius: 20px;
+}
+/*header end*/
+
+/*banner start*/
+.banner{
+	padding-top:0px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+.custom_slider ol{
+	top: 670px !important;
+}
+.custom_slider ol li{
+	width: 10px;
+    height: 10px;
+}
+.banner_left{
+	padding-right: 0px;
+    margin-top: 0px;
+}
+
+.banner_left h1{
+	font-size: 28px;
+}
+.banner_left h3 {
+    margin: 20px 0;
+    font-size: 18px;
+}
+.banner_left p{    
+	font-size: 16px;
+    margin-bottom: 25px;
+}
+.icon ul li {
+	margin-right: 30px !important;
+}
+.icon ul li i{
+	font-size: 30px !important;
+}
+.banner_right{
+	margin-top: 10px;
+}
+.banner_right img{
+	width: 70%;
+}
+/*banner end*/
+/*service start*/
+.service{
+padding: 40px 0 20px;
+}
+.common{
+	margin-bottom: 40px;
+	padding: 0;
+}
+.common h1{
+	font-size: 28px;
+}
+.common p{
+	font-size: 16px;
+}
+.service1{
+	margin-bottom: 80px;
+}
+.single_service .icon i{
+	font-size: 40px;
+}
+.single_service .icon_content h1{
+    font-size: 20px;
+}
+/*service end*/
+
+/*contact start*/
+.contact{
+	background-color: black;
+	padding: 40px 0 26px;
+}
+.contact_submit{
+	padding: 0;
+    margin-bottom: 30px;
+}
+.contact_submit input{
+	padding: 20px 0px;
+    border-radius: 5px;
+}
+.contact_submit button{
+    font-size: 12px;
+    padding: 12px 0px;
+}
+.contact_submit .content_icon{
+    margin-top: 30px;
+    margin-bottom: 26px;
+}
+.content_icon ul li {
+	padding: 0 5px;
+}
+.content_icon ul li img{
+	margin-bottom: 14px;
+    height: 26px;
+}
+.content_icon ul li i{
+	font-size: 30px;
+}
+
+/*contact end*/
+
+/*footer start*/
+footer{
+	padding-bottom: 40px;
+	font-size: 14px;
+}
+.information1{
+	margin-bottom: 20px;
+}
+.information1 p{
+margin-bottom: 0;
+}
+.information2{
+	padding: 0;
+}
+/*footer end*/
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header satrt*/
+header {
+	padding: 20px 0;
+}
+.custom_menu a{
+	font-size: 32px;
+}
+.custom_menu a img{
+	width: 20%;
+}
+.custom_nav ul li {
+	margin-left: 0;
+}
+.custom_nav ul li a {
+	font-size: 18px;
+	text-align: center;
+}
+.custom_nav ul li a:hover {
+	background-color: black;
+	color: white !important;
+	border-radius: 20px;
+}
+/*header end*/
+
+/*banner start*/
+.banner{
+	padding-top:0px;
+	padding-bottom: 40px;
+	text-align: center;
+}
+.custom_slider ol{
+	top: 850px !important;
+}
+.custom_slider ol li{
+	width: 15px;
+    height: 15px;
+}
+.banner_left{
+	padding-right: 0px;
+    margin-top: 0px;
+}
+
+.banner_left h1{
+	font-size: 28px;
+}
+.banner_left h3 {
+    margin: 20px 0;
+    font-size: 18px;
+}
+.banner_left p{    
+	font-size: 16px;
+    margin-bottom: 25px;
+}
+.icon ul li {
+	margin-right: 30px !important;
+}
+.icon ul li i{
+	font-size: 30px !important;
+}
+.banner_right{
+	margin-top: 10px;
+}
+.banner_right img{
+	width: 70%;
+}
+/*banner end*/
+/*service start*/
+.service{
+padding: 40px 0 20px;
+}
+.common{
+	margin-bottom: 40px;
+	padding: 0;
+}
+.common h1{
+	font-size: 28px;
+}
+.common p{
+	font-size: 16px;
+}
+.service1{
+	margin-bottom: 80px;
+}
+.single_service .icon i{
+	font-size: 40px;
+}
+.single_service .icon_content h1{
+    font-size: 20px;
+}
+/*service end*/
+
+/*contact start*/
+.contact{
+	background-color: black;
+	padding: 40px 0 26px;
+}
+.contact_submit{
+	padding: 0;
+    margin-bottom: 30px;
+}
+.contact_submit input{
+	padding: 20px 0px;
+    border-radius: 5px;
+}
+.contact_submit button{
+    font-size: 12px;
+    padding: 12px 0px;
+}
+.contact_submit .content_icon{
+    margin-top: 30px;
+    margin-bottom: 26px;
+}
+.content_icon ul li {
+	padding: 0 5px;
+}
+.content_icon ul li img{
+	margin-bottom: 14px;
+    height: 26px;
+}
+.content_icon ul li i{
+	font-size: 30px;
+}
+
+/*contact end*/
+
+/*footer start*/
+footer{
+	padding-bottom: 40px;
+	font-size: 14px;
+}
+.information1{
+	margin-bottom: 20px;
+}
+.information1 p{
+margin-bottom: 0;
+}
+.information2{
+	padding: 0;
+}
+/*footer end*/
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header satrt*/
+header {
+	padding: 35px 0;
+}
+.custom_menu a{
+	font-size: 26px;
+}
+.custom_nav ul li {
+	margin-left: 40px;
+}
+.custom_nav ul li a {
+	font-size: 18px;
+}
+/*header end*/
+
+/*banner start*/
+.banner{
+	background-color: #fcdb00;
+	padding-top: 30px;
+	padding-bottom: 80px;
+}
+.custom_slider ol{
+	top: 360px !important;
+}
+.custom_slider ol li{
+	    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+.banner_left{
+	padding-right: 0;
+    margin-top: 20px;
+}
+
+.banner_left h1{
+	font-size: 28px;
+}
+.banner_left h3 {
+    margin: 15px 0;
+    font-size: 18px;
+}
+.banner_left p{    
+	font-size: 16px;
+    margin-bottom: 25px;
+}
+.icon ul li i{
+	font-size: 36px !important;
+}
+/*banner end*/
+/*service start*/
+.service{
+padding: 70px 0 50px;
+}
+.common{
+	margin-bottom: 50px;
+	padding: 0 20px;
+}
+.common h1{
+	font-size: 28px;
+}
+.common p{
+	font-size: 18px;
+}
+.service1{
+	margin-bottom: 80px;
+}
+.single_service .icon i{
+	font-size: 40px;
+}
+/*service end*/
+
+/*contact start*/
+.contact{
+	background-color: black;
+	padding: 70px 0px 70px;
+}
+.contact_submit{
+	padding: 0 15px;
+}
+.content_icon ul li {
+	padding: 0 3px;
+}
+
+/*contact end*/
+
+/*footer start*/
+footer{
+	font-size: 14px;
+}
+.information2{
+	padding: 0 20px;
+}
+/*footer end*/
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+.custom_nav ul li {
+    margin-left: 60px;
+}
+.common {
+    margin-bottom: 60px;
+    padding: 0 0px;
+}
+.service {
+    padding: 80px 0;
+}
+.single_service .icon i {
+    font-size: 40px;
+}
+.contact {
+    background-color: black;
+    padding: 80px 0px 80px;
+}
+.contact_submit {
+    padding: 0px 0px;
+    margin-bottom: 40px;
+}
+
+.content_icon ul li {
+    padding: 0 9px;
+}
+.information2 {
+    padding: 0 45px;
+}
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+ }
